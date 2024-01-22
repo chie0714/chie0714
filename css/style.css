@@ -38,13 +38,13 @@ img {
 -------------------------------- */
 .big-big {
     background-size: cover;
-    background-position: center;
+    background-position: center center;
+    min-height: ;
 }
 #home {
     background-image: url(../image/frame.jpg);
     background-color:rgba(255, 255, 255, 0.5);
     background-blend-mode: soft-light;
-    min-height: 1000px;
 }
 #home .page-title {
     text-transform: none;
